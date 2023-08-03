@@ -42,6 +42,7 @@ dependencies {
     implementation 'me.carda:androidcore:0.7.7'
 
     implementation 'com.google.guava:guava:31.1-android'
+    implementation 'androidx.core:core-ktx:1.10.1'
 
     // Required for instrumented tests
     testImplementation 'junit:junit:4.13.2'
