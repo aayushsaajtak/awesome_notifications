@@ -1,1 +1,5 @@
 rootProject.name = 'awesome_notifications'
+//include ':app'
+//include ':core'
+
+//project(':core').projectDir = new File('C:/src/projects/AndroidAwnCore/core')

@@ -8,5 +8,6 @@ enum NotificationLayout {
   ProgressBar,
   Messaging,
   MessagingGroup,
-  MediaPlayer
+  MediaPlayer,
+  custom
 }
